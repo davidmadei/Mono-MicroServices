@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Locust output (large; one history file can be 50+ MB)
+runs/
+
+# Beanstalk upload bundles -- they contain your database password
+*.zip
+
+# Editor / OS leftovers
+.DS_Store
+~$*
+*.orig
+*.bak

@@ -1,0 +1,10 @@
+{
+    "name": "simran/monolithic",
+    "authors": [
+        {
+            "name": "Simran",
+            "email": "ssingh28@ncsu.edu"
+        }
+    ],
+    "require": {}
+}
